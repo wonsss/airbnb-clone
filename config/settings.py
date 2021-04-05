@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Django settings for config project.
 
@@ -129,7 +128,6 @@ USE_TZ = True
 STATIC_URL = "/static/"
 
 AUTH_USER_MODEL = "users.User"
-=======
 """
 Django settings for config project.
 
@@ -260,4 +258,3 @@ USE_TZ = True
 STATIC_URL = "/static/"
 
 AUTH_USER_MODEL = "users.User"
->>>>>>> fa6c254c8ad9c40b6332389b78c08fb063522724
