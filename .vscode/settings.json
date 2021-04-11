@@ -1,5 +1,5 @@
 {
     "python.formatting.provider": "black",
-    "python.pythonPath": "C:\\Users\\user\\.virtualenvs\\system32-zwnXhztR\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Users\\user\\.virtualenvs\\airbnb-clone-aAphIwZV\\Scripts\\python.exe",
     "git.ignoreLimitWarning": true
 }
